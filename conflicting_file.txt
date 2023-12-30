@@ -1,0 +1,1 @@
+"Content in feature_merge_conflict2.txt" 
